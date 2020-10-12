@@ -1,0 +1,8 @@
+{
+    "require": {
+        "doctrine/annotations": "^1.10",
+        "symfony/maker-bundle": "^1.21",
+        "symfony/apache-pack": "^1.0",
+        "symfony/requirements-checker": "^2.0"
+    }
+}
